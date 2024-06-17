@@ -47,9 +47,7 @@ const Coupon = () => {
     
     <Box className="coupon-generator" maxW="md" mx="auto" mt="6">
       <Flex>
-        <Box>
-          <Sidebar/>
-        </Box>
+       
         <Stack spacing="6">
         <Heading as="h1"size="xl" ml="400px" >
           Coupon Generator
